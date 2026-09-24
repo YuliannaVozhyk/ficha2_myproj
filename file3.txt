@@ -8,6 +8,7 @@ Este é o exemplo de um ficheiro de texto file3
    <li>Coffee</li>
    <li>Tea</li>
    <li>Milk</li>
+</ul>
 
 <h2>Comidas</h2>
 
