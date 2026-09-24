@@ -1,4 +1,9 @@
-Este e o exemplo de um ficheiro de texto file3
-Linha adicional 1
-Linha adicional 2
-Linha adicional 3
+<h1>Listas de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+   <li>Bolos</li>
+   <li>Tostas</li>
+   <li>Sandes</li>
+</ul>
